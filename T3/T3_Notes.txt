@@ -1,0 +1,7 @@
+1. Array
+    ([],matrix,3-dimentional)
+    one dimentional= []
+    two dimentional=[][]
+    Exercise1
+    Exercise2
+2. 
